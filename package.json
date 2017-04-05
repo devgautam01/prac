@@ -1,0 +1,29 @@
+{
+  "name": "node-prac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "js-yaml": "^3.8.2",
+    "mongoose": "^4.9.3",
+    "passport": "^0.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "0.0.15",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-uglify": "^2.1.2",
+    "pump": "^1.0.2"
+  }
+}

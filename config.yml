@@ -1,0 +1,5 @@
+app:
+  port: 8000
+
+db:
+  path: 'mongodb://localhost:5000/prac'
